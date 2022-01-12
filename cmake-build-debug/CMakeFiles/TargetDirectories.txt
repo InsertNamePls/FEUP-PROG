@@ -1,0 +1,4 @@
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/cmake-build-debug/CMakeFiles/FEUP_PROG3.dir
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/cmake-build-debug/CMakeFiles/FEUP_PROG1.dir

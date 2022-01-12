@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/LAB7/exc3.cpp
+cmath
+-
+ostream
+-
+iostream
+-
+exc3.h
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/LAB7/exc3.h
+
+/mnt/c/Users/zmfca/Documents/GitHub/FEUP-PROG/LAB7/exc3.h
+
